@@ -1,0 +1,4 @@
+--patch-module
+no.ntnu.idatg2001.mappe_2_hospital=_
+--add-reads
+no.ntnu.idatg2001.mappe_2_hospital=ALL-UNNAMED

@@ -1,0 +1,17 @@
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/db/PatientController.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/UserData.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/App.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/fileSerialization/SaveCSV.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/fileSerialization/LoadCSV.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/components/Patient.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/entityFactory/AlertFactory.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/entityFactory/ViewGenerator.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/exceptions/SwitchCaseException.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/components/Diagnosable.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/PopUpPageController.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/entityFactory/NodeFactory.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/MainPageController.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/PatientRegisterApplication.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/db/PatientDB.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/no/ntnu/idatg2001/mappe_2_hospital/gui/Type.java
+/Users/sanderbrekke/OneDrive - NTNU/V21/IDATG1002_Programmering_2/Prosjekter/mappe-del-2-hospital-gui-sanderob/src/main/java/module-info.java
