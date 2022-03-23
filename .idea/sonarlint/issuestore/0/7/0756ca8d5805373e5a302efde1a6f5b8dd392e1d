@@ -1,6 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌíÓıÿÿÿÿ
-s
-java:S1450"VRemove the "counter" field and declare it as a local variable in the relevant methods.(†ø½¨8‚û¾–“/
-U
-java:S1118":Add a private constructor to hide the implicit public one.(«±æ•ÿÿÿÿÿ
